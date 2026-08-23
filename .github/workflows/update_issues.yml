@@ -1,4 +1,4 @@
-name: Auto Update Target Issues
+﻿name: Auto Update Target Issues
 
 on:
   schedule:
