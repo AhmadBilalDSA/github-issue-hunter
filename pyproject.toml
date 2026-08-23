@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "github-issue-hunter"
+version = "0.1.0"
+authors = [
+  { name="Ahmad Bilal", email="kierninja@gmail.com" },
+]
+description = "Automated CLI scanner for curated beginner-friendly open-source data issues."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Quality Assurance",
+]
+
+[project.scripts]
+issue-hunter = "github_issue_hunter.cli:main"
+
+[project.urls]
+"Homepage" = "https://github.com/AhmadBilalDSA/github-issue-hunter"
+"Bug Tracker" = "https://github.com/AhmadBilalDSA/github-issue-hunter/issues"
