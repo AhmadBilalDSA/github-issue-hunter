@@ -1,18 +1,3 @@
-# Hi there, I'm Ahmad Bilal 👋
-**Data Analyst & Analytics Developer** | Bridging data pipelines, SQL optimization, and agentic workflows.
-
----
-
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, DAX
-- **Analytics & BI:** Power BI, DuckDB, dbt, Streamlit
-- **DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Terminal CLI
-
----
-
-### 🚀 Featured Project: GitHub Issue Hunter
-- 🔍 **[github-issue-hunter](https://github.com/AhmadBilalDSA/github-issue-hunter)**: An automated Python CLI & API scanner that finds open starter issues across 14+ open-source data ecosystems (`sqlfluff`, `polars`, `duckdb`, `scikit-learn`).
-
 # 🔍 GitHub Issue Hunter
 
 <p align="left">
@@ -24,14 +9,24 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
 </p>
 
+An automated Python CLI and API scanner that surveys curated open-source data ecosystems (`polars`, `duckdb`, `scikit-learn`, `sqlfluff`, `fastapi`, and more) to discover starter issues (`good first issue`, `help wanted`, `documentation`) while respecting GitHub API rate limits.
+
 ---
 
-### 📊 GitHub Activity & Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadBilalDSA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadBilalDSA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## ✨ Features
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadBilalDSA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- **Automated Discovery:** Queries GitHub REST API across 14+ high-impact open-source data repositories.
+- **Smart Rate-Limit Handling:** Detects response status `403` / `429` and reads `x-ratelimit-reset` headers with exponential backoff.
+- **Scheduled CI Integration:** A GitHub Actions cron job runs daily at `00:00 UTC` to refresh `target_issues.md` automatically.
+- **Markdown Export:** Generates formatted issue summaries with direct repository links, labels, and issue numbers.
+
+---
+
+## 🚀 Quick Start
+
+### 1. Installation
+
+```bash
+git clone [https://github.com/AhmadBilalDSA/github-issue-hunter.git](https://github.com/AhmadBilalDSA/github-issue-hunter.git)
+cd github-issue-hunter
+pip install -r requirements.txt
