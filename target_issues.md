@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-08-28 06:18:38 UTC**
-> Total Available Issues Found: **195**
+> Automatically generated on **2026-08-29 00:05:32 UTC**
+> Total Available Issues Found: **194**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -20,7 +20,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29542)** | [FEA Add missing-value support to sparse splitter in RandomForest and ExtraTrees (#29542)](https://github.com/scikit-learn/scikit-learn/issues/29542) | `help wanted`, `module:tree`, `cython` | 2024-07-22 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29521)** | [NDCG in case of abscence of relevant items (#29521)](https://github.com/scikit-learn/scikit-learn/issues/29521) | `Bug`, `help wanted` | 2024-07-19 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29133)** | [FEAT Allow the vector-form representation of symetric distance matrices as input (#29133)](https://github.com/scikit-learn/scikit-learn/issues/29133) | `New Feature`, `Performance`, `help wanted` | 2024-05-29 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/28793)** | [Unexpected behavior of sklearn.feature_selection.mutual_info_regression if copy=False (#28793)](https://github.com/scikit-learn/scikit-learn/issues/28793) | `Documentation`, `Sprint`, `help wanted` | 2024-04-09 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/28368)** | [Crash in T-SNE (#28368)](https://github.com/scikit-learn/scikit-learn/issues/28368) | `Bug`, `help wanted`, `module:manifold` | 2024-02-05 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/27882)** | [[RFC] Varying the number of outputs considered for splitting in Multi Output Decision Trees (#27882)](https://github.com/scikit-learn/scikit-learn/issues/27882) | `New Feature`, `help wanted` | 2023-12-01 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/27629)** | [Please provide option to set unknown_values during test time to same as encoded min_frequency  in OrdinalEncoder(Infrequent categories) (#27629)](https://github.com/scikit-learn/scikit-learn/issues/27629) | `New Feature`, `help wanted`, `Hard` | 2023-10-20 |
