@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-09-03 00:16:23 UTC**
-> Total Available Issues Found: **193**
+> Automatically generated on **2026-09-04 00:14:32 UTC**
+> Total Available Issues Found: **192**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -11,7 +11,6 @@
 | **[astronomer/astro-sdk](https://github.com/astronomer/astro-sdk/issues/1920)** | [Add `task_id` param in load_file example DAG (#1920)](https://github.com/astronomer/astro-sdk/issues/1920) | `feature`, `good first issue` | 2023-05-04 |
 | **[astronomer/astro-sdk](https://github.com/astronomer/astro-sdk/issues/1270)** | [Remove duplicate connection of snowflake in CI  (#1270)](https://github.com/astronomer/astro-sdk/issues/1270) | `good first issue`, `ci` | 2022-11-18 |
 | **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff/issues/1673)** | [Add support for BTEQ commands in Teradata parsing (#1673)](https://github.com/sqlfluff/sqlfluff/issues/1673) | `bug`, `good first issue`, `teradata` | 2021-10-16 |
-| **[dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core/issues/14366)** | [[BUG] run_results.json: Multiple field discrepancies vs dbt Core (#14366)](https://github.com/dbt-labs/dbt-core/issues/14366) | `type:bug`, `status:triage`, `help wanted` | 2026-03-12 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31869)** | [Array API support for CalibratedClassifierCV (#31869)](https://github.com/scikit-learn/scikit-learn/issues/31869) | `New Feature`, `help wanted`, `Hard` | 2025-08-02 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31554)** | [Allow batch based metrics calculation of sklearn.metrics (#31554)](https://github.com/scikit-learn/scikit-learn/issues/31554) | `Performance`, `help wanted`, `module:metrics` | 2025-06-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31542)** | [Huber Loss for HistGradientBoostingRegressor (#31542)](https://github.com/scikit-learn/scikit-learn/issues/31542) | `New Feature`, `help wanted`, `Hard` | 2025-06-13 |
