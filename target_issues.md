@@ -1,6 +1,6 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-09-11 00:14:24 UTC**
+> Automatically generated on **2026-09-12 03:12:41 UTC**
 > Total Available Issues Found: **192**
 
 | Repository | Issue Title | Labels | Created |
@@ -15,6 +15,7 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31554)** | [Allow batch based metrics calculation of sklearn.metrics (#31554)](https://github.com/scikit-learn/scikit-learn/issues/31554) | `Performance`, `help wanted`, `module:metrics` | 2025-06-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31542)** | [Huber Loss for HistGradientBoostingRegressor (#31542)](https://github.com/scikit-learn/scikit-learn/issues/31542) | `New Feature`, `help wanted`, `Hard` | 2025-06-13 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31503)** | [HDBSCAN performance issues compared to original hdbscan implementation (likely because Boruvka algorithm is not implemented) (#31503)](https://github.com/scikit-learn/scikit-learn/issues/31503) | `New Feature`, `Performance`, `help wanted` | 2025-06-08 |
+| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/30223)** | [Add Accumulated local effects (ALE) to inspection (#30223)](https://github.com/scikit-learn/scikit-learn/issues/30223) | `New Feature`, `Moderate`, `help wanted` | 2024-11-05 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29542)** | [FEA Add missing-value support to sparse splitter in RandomForest and ExtraTrees (#29542)](https://github.com/scikit-learn/scikit-learn/issues/29542) | `help wanted`, `module:tree`, `cython` | 2024-07-22 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29521)** | [NDCG in case of abscence of relevant items (#29521)](https://github.com/scikit-learn/scikit-learn/issues/29521) | `Bug`, `help wanted` | 2024-07-19 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29133)** | [FEAT Allow the vector-form representation of symetric distance matrices as input (#29133)](https://github.com/scikit-learn/scikit-learn/issues/29133) | `New Feature`, `Performance`, `help wanted` | 2024-05-29 |
@@ -153,7 +154,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/9008)** | [Ability to cache FeatureUnion transformers (#9008)](https://github.com/scikit-learn/scikit-learn/issues/9008) | `Enhancement`, `help wanted`, `module:pipeline` | 2017-06-06 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8943)** | [LatentDirichletAllocation  Perplexity too big on Wiki dump (#8943)](https://github.com/scikit-learn/scikit-learn/issues/8943) | `Bug`, `help wanted`, `module:decomposition` | 2017-05-27 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8884)** | [coclust package has much better results on benchmark datasets (#8884)](https://github.com/scikit-learn/scikit-learn/issues/8884) | `Performance`, `help wanted`, `Needs Benchmarks` | 2017-05-15 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8849)** | [Run more examples that do not start with plot_ on CircleCI (#8849)](https://github.com/scikit-learn/scikit-learn/issues/8849) | `Documentation`, `Build / CI`, `help wanted` | 2017-05-09 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8834)** | [Reduce memory usage for spectral clustering (#8834)](https://github.com/scikit-learn/scikit-learn/issues/8834) | `help wanted`, `module:cluster`, `module:manifold` | 2017-05-05 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8755)** | [train_test_split fails for too many values (32bit only) (#8755)](https://github.com/scikit-learn/scikit-learn/issues/8755) | `Bug`, `help wanted`, `module:model_selection` | 2017-04-17 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8730)** | [MultiOutputClassifier doesn't support sparse y (#8730)](https://github.com/scikit-learn/scikit-learn/issues/8730) | `help wanted`, `module:multioutput` | 2017-04-12 |
