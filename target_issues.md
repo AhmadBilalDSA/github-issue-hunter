@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-09-13 03:15:42 UTC**
-> Total Available Issues Found: **192**
+> Automatically generated on **2026-09-14 03:27:50 UTC**
+> Total Available Issues Found: **191**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -110,7 +110,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/12437)** | [Estimators with metric='euclidean' default but supporting metric_params and p should instead have metric='minkowski' (#12437)](https://github.com/scikit-learn/scikit-learn/issues/12437) | `Moderate`, `help wanted` | 2018-10-22 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/12259)** | [DecisionTreeClassifier behaviour when there are 2 or more best splitter (a tie among splitters)  (#12259)](https://github.com/scikit-learn/scikit-learn/issues/12259) | `Bug`, `help wanted`, `module:tree` | 2018-10-03 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/12249)** | [Default values for nu and tol in OneClassSVM (#12249)](https://github.com/scikit-learn/scikit-learn/issues/12249) | `help wanted`, `module:svm` | 2018-10-02 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/12148)** | [Improvements to check_array to handle heterogenous / object data (#12148)](https://github.com/scikit-learn/scikit-learn/issues/12148) | `Enhancement`, `help wanted`, `Needs Decision` | 2018-09-24 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11835)** | [High dimensional data support in IsolationForest by weighting attributes selection (#11835)](https://github.com/scikit-learn/scikit-learn/issues/11835) | `Enhancement`, `help wanted`, `module:ensemble` | 2018-08-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11820)** | [fetch_openml: Return a numeric target for multilabel problems (#11820)](https://github.com/scikit-learn/scikit-learn/issues/11820) | `Enhancement`, `Moderate`, `help wanted` | 2018-08-15 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11778)** | [Consensus Index for Clustering Model Selection (#11778)](https://github.com/scikit-learn/scikit-learn/issues/11778) | `Documentation`, `help wanted`, `module:cluster` | 2018-08-07 |
