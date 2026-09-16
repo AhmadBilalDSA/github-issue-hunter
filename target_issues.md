@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-09-15 03:29:28 UTC**
-> Total Available Issues Found: **191**
+> Automatically generated on **2026-09-16 03:25:06 UTC**
+> Total Available Issues Found: **190**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +15,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31554)** | [Allow batch based metrics calculation of sklearn.metrics (#31554)](https://github.com/scikit-learn/scikit-learn/issues/31554) | `Performance`, `help wanted`, `module:metrics` | 2025-06-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31542)** | [Huber Loss for HistGradientBoostingRegressor (#31542)](https://github.com/scikit-learn/scikit-learn/issues/31542) | `New Feature`, `help wanted`, `Hard` | 2025-06-13 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/31503)** | [HDBSCAN performance issues compared to original hdbscan implementation (likely because Boruvka algorithm is not implemented) (#31503)](https://github.com/scikit-learn/scikit-learn/issues/31503) | `New Feature`, `Performance`, `help wanted` | 2025-06-08 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/30223)** | [Add Accumulated local effects (ALE) to inspection (#30223)](https://github.com/scikit-learn/scikit-learn/issues/30223) | `New Feature`, `Moderate`, `help wanted` | 2024-11-05 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29542)** | [FEA Add missing-value support to sparse splitter in RandomForest and ExtraTrees (#29542)](https://github.com/scikit-learn/scikit-learn/issues/29542) | `help wanted`, `module:tree`, `cython` | 2024-07-22 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29521)** | [NDCG in case of abscence of relevant items (#29521)](https://github.com/scikit-learn/scikit-learn/issues/29521) | `Bug`, `help wanted` | 2024-07-19 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/29133)** | [FEAT Allow the vector-form representation of symetric distance matrices as input (#29133)](https://github.com/scikit-learn/scikit-learn/issues/29133) | `New Feature`, `Performance`, `help wanted` | 2024-05-29 |
