@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-09-20 03:30:05 UTC**
-> Total Available Issues Found: **190**
+> Automatically generated on **2026-09-21 03:25:02 UTC**
+> Total Available Issues Found: **189**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -127,7 +127,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10955)** | [Feature Request: cost curve with Scikit-Learn (#10955)](https://github.com/scikit-learn/scikit-learn/issues/10955) | `New Feature`, `help wanted`, `module:metrics` | 2018-04-11 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10924)** | [Simplify Elkan k-means? (#10924)](https://github.com/scikit-learn/scikit-learn/issues/10924) | `Enhancement`, `Performance`, `help wanted` | 2018-04-05 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10863)** | [GMM covariance types examples overly complex / confusing (#10863)](https://github.com/scikit-learn/scikit-learn/issues/10863) | `Documentation`, `help wanted`, `module:mixture` | 2018-03-23 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10796)** | [Reduced-rank regression (#10796)](https://github.com/scikit-learn/scikit-learn/issues/10796) | `New Feature`, `help wanted`, `module:linear_model` | 2018-03-12 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10791)** | [Extension request: initialize feature->index mapping for DictVectorizer and CountVectorizer  (#10791)](https://github.com/scikit-learn/scikit-learn/issues/10791) | `New Feature`, `help wanted`, `module:feature_extraction` | 2018-03-10 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10684)** | [Stratify option for learning_curve (#10684)](https://github.com/scikit-learn/scikit-learn/issues/10684) | `help wanted`, `module:model_selection` | 2018-02-24 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10539)** | [Inconsistent density estimator sampling APIs (#10539)](https://github.com/scikit-learn/scikit-learn/issues/10539) | `API`, `help wanted`, `Needs Decision` | 2018-01-26 |
