@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-09-21 03:25:02 UTC**
-> Total Available Issues Found: **189**
+> Automatically generated on **2026-09-22 03:24:01 UTC**
+> Total Available Issues Found: **187**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/19614)** | [Give feedback when `svm.SVC` is configured with kernel hyperparameters for a different kernel (#19614)](https://github.com/scikit-learn/scikit-learn/issues/19614) | `New Feature`, `help wanted`, `module:svm` | 2021-03-04 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/19071)** | [SimpleImputer, missing_values and None (#19071)](https://github.com/scikit-learn/scikit-learn/issues/19071) | `Bug`, `help wanted`, `module:impute` | 2020-12-26 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/19066)** | [BallTree query match time is O(n) not O(log(n)) (#19066)](https://github.com/scikit-learn/scikit-learn/issues/19066) | `Bug`, `Performance`, `help wanted` | 2020-12-23 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/19008)** | [MIN_CAT_SUPPORT in HGBT (#19008)](https://github.com/scikit-learn/scikit-learn/issues/19008) | `Moderate`, `help wanted`, `Needs Benchmarks` | 2020-12-15 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/18540)** | [RandomForestRegressor quantile Criterion (#18540)](https://github.com/scikit-learn/scikit-learn/issues/18540) | `New Feature`, `help wanted`, `module:ensemble` | 2020-10-06 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/18530)** | [Are predictions on scikit-learn models thread-safe? (#18530)](https://github.com/scikit-learn/scikit-learn/issues/18530) | `Documentation`, `help wanted`, `module:test-suite` | 2020-10-04 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/18205)** | [max_iter limit argument inconsistencies between solvers. (#18205)](https://github.com/scikit-learn/scikit-learn/issues/18205) | `Enhancement`, `help wanted` | 2020-08-19 |
@@ -185,7 +184,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6231)** | [Scoring functions don't know classes_ (#6231)](https://github.com/scikit-learn/scikit-learn/issues/6231) | `API`, `help wanted` | 2016-01-26 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6154)** | [Grid search without cross-validation for unsupervised clustering (#6154)](https://github.com/scikit-learn/scikit-learn/issues/6154) | `New Feature`, `help wanted`, `Hard` | 2016-01-10 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/5602)** | [BUG: StandardScaler partial_fit overflows (#5602)](https://github.com/scikit-learn/scikit-learn/issues/5602) | `Bug`, `Moderate`, `help wanted` | 2015-10-27 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/5585)** | [ENH: interface for SVD solvers (#5585)](https://github.com/scikit-learn/scikit-learn/issues/5585) | `Enhancement`, `Moderate`, `help wanted` | 2015-10-24 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/4817)** | [allow tied-spherical and tied-diagonal cv in gmm (#4817)](https://github.com/scikit-learn/scikit-learn/issues/4817) | `Enhancement`, `Moderate`, `help wanted` | 2015-06-04 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/4769)** | [Dictionary learning is slower with n_jobs > 1 (#4769)](https://github.com/scikit-learn/scikit-learn/issues/4769) | `Performance`, `help wanted`, `module:decomposition` | 2015-05-26 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/4657)** | [Request: references for plot_svm_scale_c (#4657)](https://github.com/scikit-learn/scikit-learn/issues/4657) | `Documentation`, `help wanted`, `module:svm` | 2015-05-01 |
