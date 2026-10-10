@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-10-09 04:39:23 UTC**
-> Total Available Issues Found: **188**
+> Automatically generated on **2026-10-10 04:25:15 UTC**
+> Total Available Issues Found: **187**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -29,7 +29,6 @@
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/9690)** | [Support GitHub codespaces (#9690)](https://github.com/pola-rs/polars/issues/9690) | `help wanted`, `accepted`, `internal` | 2023-07-03 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/26292)** | [Add support for bools in `SimpleImputer` (#26292)](https://github.com/scikit-learn/scikit-learn/issues/26292) | `New Feature`, `Moderate`, `help wanted` | 2023-04-28 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/7397)** | [Extend `strptime` functionality to parse Duration strings (#7397)](https://github.com/pola-rs/polars/issues/7397) | `help wanted`, `enhancement`, `accepted` | 2023-03-07 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/25380)** | [SVC and OneClassSVM fails to fit or have wrong fitted attributes with null sample weights (#25380)](https://github.com/scikit-learn/scikit-learn/issues/25380) | `Bug`, `help wanted`, `Hard` | 2023-01-12 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/3520)** | [Support HDF5 reading/writing (with optional dependencies) (#3520)](https://github.com/pola-rs/polars/issues/3520) | `help wanted`, `python`, `enhancement` | 2022-05-28 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/23180)** | [Investigate SAG/SAGA solver (#23180)](https://github.com/scikit-learn/scikit-learn/issues/23180) | `Bug`, `Moderate`, `help wanted` | 2022-04-21 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/22881)** | [Improve tests to make them run on variously typed data using the `global_dtype` fixture (#22881)](https://github.com/scikit-learn/scikit-learn/issues/22881) | `help wanted`, `Hard`, `module:test-suite` | 2022-03-17 |
