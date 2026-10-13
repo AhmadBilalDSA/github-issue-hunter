@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-10-12 04:25:30 UTC**
-> Total Available Issues Found: **187**
+> Automatically generated on **2026-10-13 05:33:23 UTC**
+> Total Available Issues Found: **186**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -151,7 +151,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8943)** | [LatentDirichletAllocation  Perplexity too big on Wiki dump (#8943)](https://github.com/scikit-learn/scikit-learn/issues/8943) | `Bug`, `help wanted`, `module:decomposition` | 2017-05-27 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8884)** | [coclust package has much better results on benchmark datasets (#8884)](https://github.com/scikit-learn/scikit-learn/issues/8884) | `Performance`, `help wanted`, `Needs Benchmarks` | 2017-05-15 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8834)** | [Reduce memory usage for spectral clustering (#8834)](https://github.com/scikit-learn/scikit-learn/issues/8834) | `help wanted`, `module:cluster`, `module:manifold` | 2017-05-05 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8755)** | [train_test_split fails for too many values (32bit only) (#8755)](https://github.com/scikit-learn/scikit-learn/issues/8755) | `Bug`, `help wanted`, `module:model_selection` | 2017-04-17 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8730)** | [MultiOutputClassifier doesn't support sparse y (#8730)](https://github.com/scikit-learn/scikit-learn/issues/8730) | `help wanted`, `module:multioutput` | 2017-04-12 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8714)** | [[WIP] Online Inference for BayesianGaussianMixture (#8714)](https://github.com/scikit-learn/scikit-learn/issues/8714) | `Enhancement`, `help wanted`, `module:mixture` | 2017-04-06 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8642)** | [Implement `nbytes` or `__sizeof__`  (or equivalent) for estimators (#8642)](https://github.com/scikit-learn/scikit-learn/issues/8642) | `Enhancement`, `help wanted` | 2017-03-24 |
