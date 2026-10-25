@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-10-24 03:21:56 UTC**
-> Total Available Issues Found: **184**
+> Automatically generated on **2026-10-25 03:17:07 UTC**
+> Total Available Issues Found: **183**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -30,7 +30,6 @@
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/3520)** | [Support HDF5 reading/writing (with optional dependencies) (#3520)](https://github.com/pola-rs/polars/issues/3520) | `help wanted`, `python`, `enhancement` | 2022-05-28 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/23180)** | [Investigate SAG/SAGA solver (#23180)](https://github.com/scikit-learn/scikit-learn/issues/23180) | `Bug`, `Moderate`, `help wanted` | 2022-04-21 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/22881)** | [Improve tests to make them run on variously typed data using the `global_dtype` fixture (#22881)](https://github.com/scikit-learn/scikit-learn/issues/22881) | `help wanted`, `Hard`, `module:test-suite` | 2022-03-17 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/22383)** | [Add friedman's H statistic (#22383)](https://github.com/scikit-learn/scikit-learn/issues/22383) | `New Feature`, `help wanted`, `Hard` | 2022-02-04 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/21699)** | [MeanThreshold, MedianThreshold, and other threshold support in GenericUnivariateSelect (#21699)](https://github.com/scikit-learn/scikit-learn/issues/21699) | `New Feature`, `Moderate`, `help wanted` | 2021-11-17 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/21665)** | [Mean Standardized Log Loss (MSLL) for uncertainty aware regression models (#21665)](https://github.com/scikit-learn/scikit-learn/issues/21665) | `New Feature`, `help wanted`, `module:gaussian_process` | 2021-11-14 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/21490)** | [[DOC] Outdated description of attributes oob_decision_function_ and oob_prediction_ in bagging estimators (#21490)](https://github.com/scikit-learn/scikit-learn/issues/21490) | `Regression`, `help wanted` | 2021-10-28 |
