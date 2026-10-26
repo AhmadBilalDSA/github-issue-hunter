@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-10-25 03:17:07 UTC**
-> Total Available Issues Found: **183**
+> Automatically generated on **2026-10-26 03:18:44 UTC**
+> Total Available Issues Found: **182**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -91,7 +91,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13557)** | [cross_validate hang randomly when training svc with polynomial kernel. (#13557)](https://github.com/scikit-learn/scikit-learn/issues/13557) | `Bug`, `help wanted`, `module:svm` | 2019-04-02 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13556)** | [More details about the Crammer-Singer method for LinearSVM (#13556)](https://github.com/scikit-learn/scikit-learn/issues/13556) | `Documentation`, `help wanted`, `Needs Benchmarks` | 2019-04-02 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13478)** | [Add `return_predictions` option to the model_selection.cross_validate() API (#13478)](https://github.com/scikit-learn/scikit-learn/issues/13478) | `Enhancement`, `help wanted`, `module:model_selection` | 2019-03-19 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13403)** | [`pairwise_distances` produces wrong output for asymmetric similarity measures (#13403)](https://github.com/scikit-learn/scikit-learn/issues/13403) | `Moderate`, `help wanted`, `module:metrics` | 2019-03-06 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13288)** | [Add example of creating a static transformer for transfer learning using joblib or onnx deserialisation (#13288)](https://github.com/scikit-learn/scikit-learn/issues/13288) | `Documentation`, `help wanted` | 2019-02-26 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13099)** | [gamma hyperparameter misspecified on KernelPCA (#13099)](https://github.com/scikit-learn/scikit-learn/issues/13099) | `help wanted`, `module:decomposition` | 2019-02-06 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/13062)** | [Re-evaluate memory usage in CountVectorizer (#13062)](https://github.com/scikit-learn/scikit-learn/issues/13062) | `help wanted`, `Needs Benchmarks`, `module:feature_extraction` | 2019-01-28 |
