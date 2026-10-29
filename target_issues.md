@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-10-28 04:04:53 UTC**
-> Total Available Issues Found: **182**
+> Automatically generated on **2026-10-29 04:28:04 UTC**
+> Total Available Issues Found: **181**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -178,7 +178,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6284)** | [[ENH] Provision generating missing values and add parameters to control the same (#6284)](https://github.com/scikit-learn/scikit-learn/issues/6284) | `New Feature`, `Moderate`, `help wanted` | 2016-02-05 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6231)** | [Scoring functions don't know classes_ (#6231)](https://github.com/scikit-learn/scikit-learn/issues/6231) | `API`, `help wanted` | 2016-01-26 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6154)** | [Grid search without cross-validation for unsupervised clustering (#6154)](https://github.com/scikit-learn/scikit-learn/issues/6154) | `New Feature`, `help wanted`, `Hard` | 2016-01-10 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/5602)** | [BUG: StandardScaler partial_fit overflows (#5602)](https://github.com/scikit-learn/scikit-learn/issues/5602) | `Bug`, `Moderate`, `help wanted` | 2015-10-27 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/4817)** | [allow tied-spherical and tied-diagonal cv in gmm (#4817)](https://github.com/scikit-learn/scikit-learn/issues/4817) | `Enhancement`, `Moderate`, `help wanted` | 2015-06-04 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/4769)** | [Dictionary learning is slower with n_jobs > 1 (#4769)](https://github.com/scikit-learn/scikit-learn/issues/4769) | `Performance`, `help wanted`, `module:decomposition` | 2015-05-26 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/4657)** | [Request: references for plot_svm_scale_c (#4657)](https://github.com/scikit-learn/scikit-learn/issues/4657) | `Documentation`, `help wanted`, `module:svm` | 2015-05-01 |
