@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-10-30 04:27:50 UTC**
-> Total Available Issues Found: **181**
+> Automatically generated on **2026-10-31 04:08:51 UTC**
+> Total Available Issues Found: **180**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -106,7 +106,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/12249)** | [Default values for nu and tol in OneClassSVM (#12249)](https://github.com/scikit-learn/scikit-learn/issues/12249) | `help wanted`, `module:svm` | 2018-10-02 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11835)** | [High dimensional data support in IsolationForest by weighting attributes selection (#11835)](https://github.com/scikit-learn/scikit-learn/issues/11835) | `Enhancement`, `help wanted`, `module:ensemble` | 2018-08-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11820)** | [fetch_openml: Return a numeric target for multilabel problems (#11820)](https://github.com/scikit-learn/scikit-learn/issues/11820) | `Enhancement`, `Moderate`, `help wanted` | 2018-08-15 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11778)** | [Consensus Index for Clustering Model Selection (#11778)](https://github.com/scikit-learn/scikit-learn/issues/11778) | `Documentation`, `help wanted`, `module:cluster` | 2018-08-07 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11579)** | [Memoize tokenisation in CountVectorizer (#11579)](https://github.com/scikit-learn/scikit-learn/issues/11579) | `Enhancement`, `help wanted`, `module:feature_extraction` | 2018-07-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11566)** | [Add Penalty factors for each coefficient in enet (similar to the R's glmnet library) (#11566)](https://github.com/scikit-learn/scikit-learn/issues/11566) | `Moderate`, `API`, `help wanted` | 2018-07-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/11433)** | [Add common tests for pairwise non-classifiers (#11433)](https://github.com/scikit-learn/scikit-learn/issues/11433) | `Enhancement`, `help wanted`, `module:test-suite` | 2018-07-05 |
