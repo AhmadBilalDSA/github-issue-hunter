@@ -1,10 +1,11 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-11-06 05:12:27 UTC**
-> Total Available Issues Found: **180**
+> Automatically generated on **2026-11-07 04:44:05 UTC**
+> Total Available Issues Found: **181**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
+| **[pola-rs/polars](https://github.com/pola-rs/polars/issues/30625)** | [`cumulative_eval(..., min_samples=0)` returns one value less than the input length (#30625)](https://github.com/pola-rs/polars/issues/30625) | `bug`, `good first issue`, `python` | 2026-11-06 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/29641)** | [Incorrect CSV for `decimal_comma` and `float_scientific` (#29641)](https://github.com/pola-rs/polars/issues/29641) | `bug`, `good first issue`, `accepted` | 2026-09-29 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/21898)** | [`pl.datetime` needs a way to fail silently (#21898)](https://github.com/pola-rs/polars/issues/21898) | `bug`, `good first issue`, `python` | 2025-03-23 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/19266)** | [Add add_filename to pl.read_csv (and read operations others) (#19266)](https://github.com/pola-rs/polars/issues/19266) | `good first issue`, `enhancement` | 2024-10-16 |
