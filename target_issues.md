@@ -1,7 +1,7 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-11-13 05:09:56 UTC**
-> Total Available Issues Found: **180**
+> Automatically generated on **2026-11-14 04:59:40 UTC**
+> Total Available Issues Found: **179**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
@@ -168,7 +168,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/7559)** | [Tolerance on RFECV (#7559)](https://github.com/scikit-learn/scikit-learn/issues/7559) | `Enhancement`, `Moderate`, `help wanted` | 2016-10-03 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/7549)** | [TfIdf vectorizer partial_fit (#7549)](https://github.com/scikit-learn/scikit-learn/issues/7549) | `Enhancement`, `help wanted`, `module:feature_extraction` | 2016-10-02 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/7492)** | [KernelDensity Score unstable with many samples and changing leaf_size (#7492)](https://github.com/scikit-learn/scikit-learn/issues/7492) | `Bug`, `Moderate`, `help wanted` | 2016-09-26 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/7050)** | [PLSRegression VIP score calculation (#7050)](https://github.com/scikit-learn/scikit-learn/issues/7050) | `Enhancement`, `help wanted`, `module:cross_decomposition` | 2016-07-19 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6868)** | [GaussianProcesss: active_dims? (#6868)](https://github.com/scikit-learn/scikit-learn/issues/6868) | `New Feature`, `help wanted`, `module:gaussian_process` | 2016-06-08 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6777)** | [Perplexity not monotonically decreasing for batch Latent Dirichlet Allocation (#6777)](https://github.com/scikit-learn/scikit-learn/issues/6777) | `Bug`, `help wanted`, `module:decomposition` | 2016-05-12 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/6630)** | [Different alpha selection strategies in LinearModelCV (#6630)](https://github.com/scikit-learn/scikit-learn/issues/6630) | `Enhancement`, `help wanted`, `module:linear_model` | 2016-04-06 |
