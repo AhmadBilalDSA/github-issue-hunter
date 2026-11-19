@@ -1,13 +1,12 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-11-18 05:57:36 UTC**
-> Total Available Issues Found: **179**
+> Automatically generated on **2026-11-19 05:58:06 UTC**
+> Total Available Issues Found: **177**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/29641)** | [Incorrect CSV for `decimal_comma` and `float_scientific` (#29641)](https://github.com/pola-rs/polars/issues/29641) | `bug`, `good first issue`, `accepted` | 2026-09-29 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/21898)** | [`pl.datetime` needs a way to fail silently (#21898)](https://github.com/pola-rs/polars/issues/21898) | `bug`, `good first issue`, `python` | 2025-03-23 |
-| **[pola-rs/polars](https://github.com/pola-rs/polars/issues/19266)** | [Add add_filename to pl.read_csv (and read operations others) (#19266)](https://github.com/pola-rs/polars/issues/19266) | `good first issue`, `enhancement` | 2024-10-16 |
 | **[astronomer/astro-sdk](https://github.com/astronomer/astro-sdk/issues/1920)** | [Add `task_id` param in load_file example DAG (#1920)](https://github.com/astronomer/astro-sdk/issues/1920) | `feature`, `good first issue` | 2023-05-04 |
 | **[astronomer/astro-sdk](https://github.com/astronomer/astro-sdk/issues/1270)** | [Remove duplicate connection of snowflake in CI  (#1270)](https://github.com/astronomer/astro-sdk/issues/1270) | `good first issue`, `ci` | 2022-11-18 |
 | **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff/issues/1673)** | [Add support for BTEQ commands in Teradata parsing (#1673)](https://github.com/sqlfluff/sqlfluff/issues/1673) | `bug`, `good first issue`, `teradata` | 2021-10-16 |
@@ -128,7 +127,6 @@
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10329)** | [NMF n_components are not properly getting reflected in output when using Grid Search CV (#10329)](https://github.com/scikit-learn/scikit-learn/issues/10329) | `Bug`, `help wanted`, `module:decomposition` | 2017-12-15 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10315)** | [Need contribute docs on what to consider when building a meta-estimator (#10315)](https://github.com/scikit-learn/scikit-learn/issues/10315) | `Documentation`, `Moderate`, `help wanted` | 2017-12-14 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10289)** | [Generic benchmarking/profiling tool (#10289)](https://github.com/scikit-learn/scikit-learn/issues/10289) | `New Feature`, `API`, `help wanted` | 2017-12-12 |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10158)** | [Enable warnings on travis (and make sure they are reasonable) (#10158)](https://github.com/scikit-learn/scikit-learn/issues/10158) | `Build / CI`, `help wanted`, `module:test-suite` | 2017-11-16 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10141)** | [Documentation error in GaussianMixture (#10141)](https://github.com/scikit-learn/scikit-learn/issues/10141) | `Documentation`, `help wanted`, `module:mixture` | 2017-11-14 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/10119)** | [Improve test for MDS parallel processing case - requires update in MDS (#10119)](https://github.com/scikit-learn/scikit-learn/issues/10119) | `help wanted`, `module:manifold`, `module:test-suite` | 2017-11-13 |
 | **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/9933)** | [Votingclassifier uses arithmetic mean. Should be taking a mean of log odds. (#9933)](https://github.com/scikit-learn/scikit-learn/issues/9933) | `help wanted`, `module:ensemble` | 2017-10-16 |
