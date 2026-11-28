@@ -1,10 +1,11 @@
 # 🎯 Target Open Source Starter Issues
 
-> Automatically generated on **2026-11-27 06:48:41 UTC**
-> Total Available Issues Found: **176**
+> Automatically generated on **2026-11-28 06:23:01 UTC**
+> Total Available Issues Found: **177**
 
 | Repository | Issue Title | Labels | Created |
 | :--- | :--- | :--- | :--- |
+| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/35497)** | [Fix broken links in the documentation (#35497)](https://github.com/scikit-learn/scikit-learn/issues/35497) | `Sprint`, `good first issue`, `Needs Decision` | 2026-11-23 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/29641)** | [Incorrect CSV for `decimal_comma` and `float_scientific` (#29641)](https://github.com/pola-rs/polars/issues/29641) | `bug`, `good first issue`, `accepted` | 2026-09-29 |
 | **[pola-rs/polars](https://github.com/pola-rs/polars/issues/21898)** | [`pl.datetime` needs a way to fail silently (#21898)](https://github.com/pola-rs/polars/issues/21898) | `bug`, `good first issue`, `python` | 2025-03-23 |
 | **[astronomer/astro-sdk](https://github.com/astronomer/astro-sdk/issues/1920)** | [Add `task_id` param in load_file example DAG (#1920)](https://github.com/astronomer/astro-sdk/issues/1920) | `feature`, `good first issue` | 2023-05-04 |
